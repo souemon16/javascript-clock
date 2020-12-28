@@ -5,7 +5,7 @@
 ![JavaScript Clock](https://i.ibb.co/XV8pRwn/js-clock.png)
 
 
-## [Visit the live site](https://souemon16.github.io/javascript-drum-kit/index.html)
+## [Visit the live site](https://souemon16.github.io/javascript-clock/)
 
 ### Main Features:
 - Fully created by Javascript DOM Manipaulation.
